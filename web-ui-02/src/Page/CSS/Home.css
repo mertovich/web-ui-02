@@ -1,0 +1,10 @@
+.Test{
+        background-color: #191B1E;
+        width: 100%;
+        height: 100vh;
+}
+@media screen and (max-width: 992px) {
+        .Test {
+          height: 100%;
+        }
+      }
